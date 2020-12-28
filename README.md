@@ -3,5 +3,5 @@ CPU time limits are soft limit, unlike most limits. That means that the platform
 
 
 
-CPU time is not only consumed the apex code. Declarative constructs suchh as formulas,validation rules, workflows, processes and flows use CPU time as well.
+CPU time is not only consumed by the apex code. Declarative constructs such as formulas,validation rules, workflows, processes and flows use CPU time as well.
 
